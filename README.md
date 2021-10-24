@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Gabriel Ribeiro ✌🏼
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabriel098690)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ribeiro7731/)
 [![LinKedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ribeiro-31a2b11b2/)
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel098690&show_icons=true&theme=dracula)
